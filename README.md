@@ -1,4 +1,6 @@
-# blog-front
+# Vue YTubeApp
+
+Bootstrapped with [NuxtJS](https://nuxtjs.org/) and [Vuetify](https://vuetifyjs.com/en/).
 
 ## Build Setup
 
