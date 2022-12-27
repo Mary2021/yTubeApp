@@ -19,7 +19,8 @@
             class="mt-4"
             height="20"
             width="100"
-            src="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-1024-80.jpg"
+            :src="require('~/static/logo.png')"
+            
           >
           </v-img>
         </a>
